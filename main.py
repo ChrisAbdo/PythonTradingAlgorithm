@@ -1,3 +1,4 @@
+from time import time
 import robin_stocks.robinhood as r
 from decouple import config
 from termcolor import colored
